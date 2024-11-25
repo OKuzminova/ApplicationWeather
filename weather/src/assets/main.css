@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;    
+}
+body {
+  background: rgb(45,48,71);
+  background: linear-gradient(153deg, rgba(45,48,71,1) 0%, rgba(148,187,233,1) 81%);
+  height: 100vh;
+  padding: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo {
+  text-align: center;
+  padding-top: 30px;
+}
+h1 {
+  padding-top: 30px;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+footer {
+  text-align: center;
+  color: white;
+}
+a {
+  color: #FFEDDF;
+}
